@@ -1,2 +1,3 @@
 # hello-world
-New to github, just playing around
+New to github
+Just trying to get a feel for this.
